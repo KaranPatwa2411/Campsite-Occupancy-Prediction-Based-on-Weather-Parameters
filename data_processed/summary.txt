@@ -1,0 +1,10 @@
+Quantitative Summary:
+        arrivals_count  vacation_pitches_count  vacation_pitches_open  mean_frost_depth  std_drought_index
+min               18.0                   189.0                 -100.0           0.00000           0.000000
+max           548004.0                 39110.0                 5633.0          42.89215          81.189420
+median          9536.0                  8601.0                    4.0           0.00000           0.698697
+
+Qualitative Summary:
+Number of Categories: 16
+Most Frequent: {'Baden-Württemberg': 266}
+Least Frequent: {'Hamburg': 265}

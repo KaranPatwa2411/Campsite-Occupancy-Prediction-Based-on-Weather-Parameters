@@ -1,0 +1,7 @@
+Correlation Matrix:
+                        arrivals_count  vacation_pitches_count  vacation_pitches_open  mean_frost_depth  std_drought_index
+arrivals_count                1.000000                     NaN                    NaN               NaN                NaN
+vacation_pitches_count        0.622776                1.000000                    NaN               NaN                NaN
+vacation_pitches_open         0.103471                0.308468               1.000000               NaN                NaN
+mean_frost_depth             -0.125957               -0.127463              -0.034166          1.000000                NaN
+std_drought_index            -0.021089                0.178193               0.040888          0.054497                1.0
