@@ -7,7 +7,7 @@
 **Dataset Construction Date:** 2024-07-10
 **Dataset Record Count:** 4255*36
 **Dataset Field Meanings:** 
-Below is a brief explanation of the columns from the dataset in the image:
+
 
 1. **land**: The name of the German state, Bundesland, for which the campsite data is recorded.
 2. **date**: The date of observation; likely it's at a monthly level.
