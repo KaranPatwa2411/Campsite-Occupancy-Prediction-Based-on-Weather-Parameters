@@ -40,10 +40,13 @@ The project uses historical weather data and campsite utilization rates across G
 2. **Campsite Management – Optimization of Resources**:  Linked to the weather, the occupancy forecasts provided through this research will enable campsite operators to plan staffing, facility, and resource levels, especially for those in remote locations that cannot easily respond to short-term changes in demand.
 
 
-3. **Regional Weather-Conditioned Behavior Analysis**:  This might reveal a kind of unique behavioral trend in campers coming from different regions in Germany and form the basis for further research in regional tourism and how weather affects resource demand in specific travel markets. 
+3. **Regional Weather-Conditioned Behavior Analysis**:  This might reveal a kind of unique behavioral trend in campers coming from different regions in Germany and form the basis for further research in regional tourism and how weather affects resource demand in specific travel markets.
 
-### Data Sourcing 
-The dataset on weather parameters and campsite occupancy covers German states from January 2002 to May 2024. Thus, the dataset is rich in both historical and real-time data provided by Deutscher Wetterdienst and Statistische Bundesamt, so it is suitable for retrospective analysis and prediction.
+---
+
+### Data Sourcing:
+The dataset on weather parameters and campsite occupancy covers German states from January 2002 to May 2024. Thus, the dataset is rich in both historical and realtime data provided by Deutscher Wetterdienst and Statistische Bundesamt, so it is suitable for retrospective analysis and prediction.
+
 ---
 
 ### Background Knowledge  
