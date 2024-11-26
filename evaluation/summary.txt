@@ -1,0 +1,16 @@
+Random Forest (Baseline):
+  Mean Squared Error: 5581276.1757
+  Mean Absolute Error: 687.7372
+  R2 Score: 0.9989
+Ridge Regression:
+  Mean Squared Error: 144544936.8851
+  Mean Absolute Error: 7213.1884
+  R2 Score: 0.9714
+Lasso Regression:
+  Mean Squared Error: 144535227.2519
+  Mean Absolute Error: 7223.3878
+  R2 Score: 0.9714
+Random Forest Main model:
+  Mean Squared Error: 44026632.5550
+  Mean Absolute Error: 1017.6018
+  R2 Score: 0.9910
